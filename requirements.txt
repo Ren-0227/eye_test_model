@@ -1,0 +1,12 @@
+flask
+requests
+opencv-python
+mediapipe
+numpy
+pandas
+torch
+torchvision
+scikit-learn
+Pillow
+tqdm
+PyQt5
